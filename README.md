@@ -1,6 +1,7 @@
 # AWSGoat : A Damn Vulnerable AWS Infrastructure
 
 ![1](https://user-images.githubusercontent.com/65826354/179526664-cb123612-7f9a-41fe-bab2-eb6b3b2518d7.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphotographed%2FAWSGoat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphotographed%2FAWSGoat?ref=badge_shield)
 
 Compromising an organization's cloud infrastructure is like sitting on a gold mine for attackers. And sometimes, a simple misconfiguration or a vulnerability in web applications, is all an attacker needs to compromise the entire infrastructure. Since the cloud is relatively new, many developers are not fully aware of the threatscape and they end up deploying a vulnerable cloud infrastructure.
 
@@ -218,6 +219,9 @@ Module 2:
 This program is free software: you can redistribute it and/or modify it under the terms of the MIT License.
 
 You should have received a copy of the MIT License along with this program. If not, see https://opensource.org/licenses/MIT.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphotographed%2FAWSGoat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphotographed%2FAWSGoat?ref=badge_large)
 
 # Sister Projects
 
